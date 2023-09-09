@@ -1,0 +1,15 @@
+# Environment Variables
+.env
+*/.env
+
+# Generated Garbage Files
+.DS_Store
+*/.DS_Store
+
+# Node.js Dependency Architectures
+node_modules/
+*/node_modules/
+
+# Virtual Python Environment Data
+.venv/
+*/.venv/
